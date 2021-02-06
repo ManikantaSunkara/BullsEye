@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  BullsEye
+
+  Created by Aabid Khan on 27/11/20.
+  Copyright © 2020 Ray Wenderlich. All rights reserved.
+*/
+"CloseAsYouCan" = "Rapprochez-vous le plus possible de:";
+"GuessTheSlider" = "Devinez où se trouve le curseur:";
+"hitMe" = "Frappez-Moi!";
+"startOver" = "recommencer";
+"round" = "Rond:";
+"score" = "But:";
+"slide" = "Faire glisser";
+"type" = "Type";
+"alertTitle" = "vous avez marqué %d points";
+"alertMessage" = "valeur cible %d";
+"ok" = "D'accord";
+"highScore" = "Score élevé:";
+"highestRound" = "Tour le plus élevé:";

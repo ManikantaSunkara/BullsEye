@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Round: 999"; ObjectID = "A6z-Nr-3pd"; */
+"A6z-Nr-3pd.text" = "Round: 999";
+
+/* Class = "UIViewController"; title = "Main"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Main";
+
+/* Class = "UIButton"; normalTitle = "start over"; ObjectID = "UGB-Jw-ySg"; */
+"UGB-Jw-ySg.normalTitle" = "start over";
+
+/* Class = "UILabel"; text = "Get close or guess where: "; ObjectID = "VUE-SM-YJz"; */
+"VUE-SM-YJz.text" = "Get close or guess where: ";
+
+/* Class = "UIButton"; normalTitle = "hit me!"; ObjectID = "gXR-56-MIt"; */
+"gXR-56-MIt.normalTitle" = "hit me!";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "l3O-vb-5Rp"; */
+"l3O-vb-5Rp.text" = "100";
+
+/* Class = "UILabel"; text = "Score: 999999"; ObjectID = "lgj-zK-qay"; */
+"lgj-zK-qay.text" = "Score: 999999";
+
+/* Class = "UILabel"; text = "  1"; ObjectID = "sEf-fP-2qv"; */
+"sEf-fP-2qv.text" = "  1";
+
+/* Class = "UISegmentedControl"; uCE-Pf-AzG.segmentTitles[0] = "Slide"; ObjectID = "uCE-Pf-AzG"; */
+"uCE-Pf-AzG.segmentTitles[0]" = "Slide";
+
+/* Class = "UISegmentedControl"; uCE-Pf-AzG.segmentTitles[1] = "Type"; ObjectID = "uCE-Pf-AzG"; */
+"uCE-Pf-AzG.segmentTitles[1]" = "Type";
